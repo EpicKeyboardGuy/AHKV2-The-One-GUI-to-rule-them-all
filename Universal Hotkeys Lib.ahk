@@ -2,7 +2,7 @@
 ===================================================================================================================================================================================
 ¤	UniversalHotkeys.ahk
 
-        --->	Include this file (#Include "EKG_UniversalHotkeys.ahk") in any of your scripts to give them the hotkeys below
+        --->	Include this file (#Include "Universal Hotkeys Lib.ahk") in any of your scripts to give them the hotkeys below
 
 		--->	By Epic Keyboard Guy
 		--->	Last Modified : 2025-02-17
