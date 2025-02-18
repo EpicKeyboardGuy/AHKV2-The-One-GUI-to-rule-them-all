@@ -1,3 +1,15 @@
+/*
+==============================================================================================================================================================================
+¤	B64 File Lib	                --->	Functions to create and use B64 Data.
+
+        f_FileToB64	                --->	Read original file     +     Write a .txt file containing B64 values
+        f_FileFromB64String 	    --->	Re-create original file from B64 String
+
+		--->	By Epic Keyboard Guy
+		--->	Last Modified : 2025-02-17
+==============================================================================================================================================================================
+*/
+
 If (A_ScriptName = "B64 File Lib.ahk")
 {
     ExitApp ; Meaning : This script is not runnable by itself, it needs to be included. (with #Include)
