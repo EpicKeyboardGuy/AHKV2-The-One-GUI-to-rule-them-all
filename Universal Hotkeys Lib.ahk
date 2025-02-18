@@ -39,7 +39,7 @@ If (A_ScriptName = "Universal Hotkeys Lib.ahk")
 
 ~^+#!F12:: ; Edit
 {
-	Run("`" . "C:\Users\" . A_UserName . "\AppData\Local\Programs\Microsoft VS CodeCode.exe" . "`" . " " . "`"" . A_ScriptFullPath . "`"")
+	Run("`"" . "C:\Users\" . A_UserName . "\AppData\Local\Programs\Microsoft VS CodeCode.exe" . "`"" . " " . "`"" . A_ScriptFullPath . "`"")
 
 	Exit
 }
